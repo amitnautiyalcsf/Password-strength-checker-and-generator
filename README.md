@@ -1,7 +1,7 @@
 # Password-
  It is C++ console application with 97% accuracy of rectifying wrong/short password. 
  
- It provide User to select deferent options like:
+ It provide User to select different options like:
  
  1. check your password strength.
  
